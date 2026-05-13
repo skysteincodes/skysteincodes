@@ -6,7 +6,7 @@ I build infrastructure for things that don't exist yet.
 
 ---
 
-## what I'm building
+## What were cooking up at ADHD LABS:
 
 ⚡ **THEOS** — the OS for your life.
 AI-powered performance platform for founders and high-performers.
@@ -17,6 +17,7 @@ into a daily operating layer.
 The first platform to protect, score, and sell original ideas.
 *2 patents pending.*
 
+## Powered By
 
 🦆 **HOLYDUCK** — brand strategy & creative agency for the modern founder.
 We turn vision into identity. Story into equity.
