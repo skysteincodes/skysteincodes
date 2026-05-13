@@ -53,7 +53,7 @@ the status quo as an answer.
 ## Find me
 
 🌐 [skydeas.ai](https://skydeas.ai)
-🐦 [@skylerjayee](https://x.com/industrydropout)
+🐦 [@industrydropout](https://x.com/industrydropout)
 📸 [@skystein](https://instagram.com/skystein)
 💼 [LinkedIn](https://linkedin.com/in/skysteindesign)
 
